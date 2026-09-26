@@ -1,16 +1,123 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Alencar-arrow/Alencar-arrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=220&section=header&text=Gilberto%20Alencar&fontSize=45&fontColor=00A6FB&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/Alencar-arrow">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=0066FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+PHP+%7C+Laravel+%7C+React;Sempre+aprendendo+algo+novo;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+## 🧠 Sobre mim
+
+```yaml
+gilberto:
+  formacao: "Ciência da Computação"
+  foco: "Desenvolvimento Full Stack"
+  stack_principal: ["Java", "PHP", "Laravel", "React"]
+  objetivo: "Construir soluções sólidas, do backend à interface"
+  curiosidade: "Sempre buscando entender o 'porquê' por trás do código"
+```
+
+<br>
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,react&theme=dark" />
+
+</div>
+
+<br>
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Alencar-arrow/Landing-page-Food">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Landing-page-Food&theme=dark&title_color=00A6FB&icon_color=0066FF&border_color=0066FF&bg_color=0D1117" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Alencar-arrow/Brutofit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Brutofit&theme=dark&title_color=00A6FB&icon_color=0066FF&border_color=0066FF&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alencar-arrow&show_icons=true&theme=dark&title_color=00A6FB&icon_color=0066FF&text_color=c9d1d9&border_color=0066FF&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alencar-arrow&layout=compact&theme=dark&title_color=00A6FB&text_color=c9d1d9&border_color=0066FF&bg_color=0D1117" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=Alencar-arrow&theme=dark&hide_border=true&background=0D1117&ring=0066FF&fire=00A6FB&currStreakLabel=00A6FB" width="100%" />
+
+</div>
+
+<br>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alencar-arrow&theme=react-dark&bg_color=0D1117&color=00A6FB&line=0066FF&point=ffffff&hide_border=true" width="100%" />
+
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alencar-arrow&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Alencar-arrow/Alencar-arrow/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<br>
+
+## 🌐 Vamos nos conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gilberto-batista-273162272/">
+  <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/gil_alencar05/">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00A6FB" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:000000&height=100&section=footer"/>
+
+<sub>Feito por Gilberto Alencar © 2026</sub>
+
+</div>

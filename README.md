@@ -12,14 +12,9 @@
 
 ## 🧠 Sobre mim
 
-```yaml
-gilberto:
-  formacao: "Ciência da Computação"
-  foco: "Desenvolvimento Full Stack"
-  stack_principal: ["Java", "PHP", "Laravel", "React"]
-  objetivo: "Construir soluções sólidas, do backend à interface"
-  curiosidade: "Sempre buscando entender o 'porquê' por trás do código"
-```
+Sou estudante de Ciência da Computação e venho construindo minha base como desenvolvedor Full Stack, trabalhando desde o backend até a interface final que o usuário vê. No dia a dia, transito entre **Java**, **PHP com Laravel** e **React**, sempre buscando entender o porquê por trás de cada decisão técnica, não só o "como fazer funcionar".
+
+Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais com código — é isso que me mantém estudando e evoluindo constantemente.
 
 <br>
 

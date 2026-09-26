@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=220&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=40&duration=1&pause=99999&color=00A6FB&center=true&vCenter=true&width=700&height=60&lines=Gilberto+Alencar" alt="Nome" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=40&duration=1&pause=99999&color=00A6FB&center=true&vCenter=true&width=700&height=55&lines=Gilberto+Alencar" alt="Nome" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=16&duration=1&pause=99999&color=8B98A5&center=true&vCenter=true&width=600&height=30&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%A2+Full+Stack" alt="Subtítulo" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=17&duration=1&pause=99999&color=8B98A5&center=true&vCenter=true&width=650&height=30&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Subtítulo" />
 
-<br>
-
-<img src="https://img.shields.io/badge/Java-0066FF?style=flat-square&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Laravel-0066FF?style=flat-square&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logoColor=white" height="26"/>
+<a href="https://github.com/Alencar-arrow">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=0066FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+PHP+%7C+Laravel+%7C+React;Sempre+aprendendo+algo+novo;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</a>
 
 </div>
 

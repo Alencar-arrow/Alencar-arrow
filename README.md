@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=200&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=220&section=header&text=Gilberto%20Alencar&fontSize=45&fontColor=00A6FB&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=40&duration=1&pause=99999&color=00A6FB&center=true&vCenter=true&width=700&height=60&lines=GILBERTO+ALENCAR" alt="Nome" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=18&duration=3000&pause=800&color=0066FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+PHP+%7C+Laravel+%7C+React;Sempre+aprendendo+algo+novo;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+<a href="https://github.com/Alencar-arrow">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=0066FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+PHP+%7C+Laravel+%7C+React;Sempre+aprendendo+algo+novo;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+</a>
 
 </div>
 

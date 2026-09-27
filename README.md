@@ -10,7 +10,7 @@
 
 <br>
 
-## 🧠 Sobre mim
+##  Sobre mim
 
 Sou estudante de Ciência da Computação e venho construindo minha base como desenvolvedor Full Stack, trabalhando desde o backend até a interface final que o usuário vê. No dia a dia, transito entre **Java**, **PHP com Laravel** e **React**, sempre buscando entender o porquê por trás de cada decisão técnica, não só o "como fazer funcionar".
 
@@ -18,7 +18,7 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <br>
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -28,7 +28,7 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <br>
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <br>
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <br>
 
-## 🏆 Trophies
+##  Trophies
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <br>
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <br>
 
-## 🌐 Vamos nos conectar
+##  Vamos nos conectar
 
 <div align="center">
 

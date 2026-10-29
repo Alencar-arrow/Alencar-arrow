@@ -1,90 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=220&section=header&text=Gilberto%20Alencar&fontSize=45&fontColor=00A6FB&fontAlignY=50&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=17&duration=1&pause=99999&color=8B98A5&center=true&vCenter=true&width=650&height=30&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Subtítulo" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=0066FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+PHP+%7C+Laravel+%7C+React;Sempre+aprendendo+algo+novo;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,20,30&height=180&section=header&text=GILBERTO%20ALENCAR&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=Computer%20Science%20Student%20&%20Full%20Stack%20Developer&descSize=15&descColor=38bdf8" width="100%"/>
 
 </div>
 
 <br>
 
-##  Sobre mim
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+backend+architectures;Crafting+clean+and+responsive+UIs;Turning+complex+problems+into+elegant+code" alt="Typing SVG" />
+</p>
 
-Sou estudante de Ciência da Computação e venho construindo minha base como desenvolvedor Full Stack, trabalhando desde o backend até a interface final que o usuário vê. No dia a dia, transito entre **Java**, **PHP com Laravel** e **React**, sempre buscando entender o porquê por trás de cada decisão técnica, não só o "como fazer funcionar".
+---
 
-Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais com código — é isso que me mantém estudando e evoluindo constantemente.
+## ⚡ About Me
 
-<br>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p>Hello! I'm <strong>Gilberto Alencar</strong>, a Computer Science student and Full Stack Developer passionate about building robust web applications from the database up to the user interface.</p>
+      <p>I focus on understanding the core mechanics behind every technical decision rather than just making things work. Whether optimizing database structures or designing responsive frontends, I love turning logic into impactful digital products.</p>
+      <ul>
+        🌱 Currently exploring advanced backend patterns and system scalability.<br>
+        🎯 Always open to collaborating on innovative software projects.
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <br>
+      <code>stack = ["Java", "PHP", "React"]</code><br>
+      <code>mindset = "Continuous Learner"</code>
+    </td>
+  </tr>
+</table>
 
-##  Tecnologias
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,react&theme=dark" />
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,php,laravel,react,javascript,html,css,c" />
+
+### Databases & Developer Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,bash,docker,vite,postman" />
 
 </div>
 
-<br>
+---
 
-##  Projetos em destaque
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Alencar-arrow/Landing-page-Food">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Landing-page-Food&theme=dark&title_color=00A6FB&icon_color=0066FF&border_color=0066FF&bg_color=0D1117" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Alencar-arrow/Brutofit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Brutofit&theme=dark&title_color=00A6FB&icon_color=0066FF&border_color=0066FF&bg_color=0D1117" />
-      </a>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Alencar-arrow/Landing-page-Food">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Landing-page-Food&theme=tokyonight&title_color=38bdf8&icon_color=0284c7&border_color=0284c7&bg_color=1a1b26&show_owner=false" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Alencar-arrow/Brutofit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Brutofit&theme=tokyonight&title_color=38bdf8&icon_color=0284c7&border_color=0284c7&bg_color=1a1b26&show_owner=false" width="100%" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
 
-<br>
+---
 
-##  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alencar-arrow&show_icons=true&theme=dark&title_color=00A6FB&icon_color=0066FF&text_color=c9d1d9&border_color=0066FF&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alencar-arrow&layout=compact&theme=dark&title_color=00A6FB&text_color=c9d1d9&border_color=0066FF&bg_color=0D1117" width="49%" />
-
-<img src="https://streak-stats.demolab.com/?user=Alencar-arrow&theme=dark&hide_border=true&background=0D1117&ring=0066FF&fire=00A6FB&currStreakLabel=00A6FB" width="100%" />
-
-</div>
-
-<br>
-
-##  Activity Graph
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alencar-arrow&theme=react-dark&bg_color=0D1117&color=00A6FB&line=0066FF&point=ffffff&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alencar-arrow&show_icons=true&theme=tokyonight&title_color=38bdf8&icon_color=0284c7&text_color=c0caf5&border_color=0284c7&bg_color=1a1b26" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alencar-arrow&layout=compact&theme=tokyonight&title_color=38bdf8&text_color=c0caf5&border_color=0284c7&bg_color=1a1b26" width="49%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Alencar-arrow&theme=tokyonight&hide_border=true&background=1a1b26&ring=0284c7&fire=38bdf8&currStreakLabel=38bdf8" width="100%" />
 
 </div>
 
-<br>
+---
 
-##  Trophies
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Alencar-arrow&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alencar-arrow&theme=tokyo-night&bg_color=1a1b26&color=38bdf8&line=0284c7&point=ffffff&hide_border=true" width="100%" />
 
 </div>
 
-<br>
+---
 
-##  Contribution Snake
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alencar-arrow&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -92,17 +114,17 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 </div>
 
-<br>
+---
 
-##  Vamos nos conectar
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gilberto-batista-273162272/">
-  <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/gil_alencar05/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00A6FB" />
+  <img src="https://img.shields.io/badge/Instagram-1a1b26?style=for-the-badge&logo=instagram&logoColor=38bdf8" />
 </a>
 
 </div>
@@ -111,11 +133,8 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,12,0&height=80&section=footer"/>
 
-<sub>Feito por Gilberto Alencar © 2026</sub>
+<sub>Crafted with 💻 by Gilberto Alencar © 2026</sub>
 
 </div>
-
-Pode criar um novo? 
-Diferente e mais limpo 

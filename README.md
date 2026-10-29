@@ -116,6 +116,3 @@ Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais
 <sub>Feito por Gilberto Alencar © 2026</sub>
 
 </div>
-
-Pode criar um novo? 
-Quero algo inovador e moderno 

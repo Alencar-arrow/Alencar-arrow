@@ -1,34 +1,121 @@
 <div align="center">
 
-<!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Gilberto%20Alencar&fontSize=42&fontColor=58a6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=220&section=header&text=Gilberto%20Alencar&fontSize=45&fontColor=00A6FB&fontAlignY=50&animation=fadeIn" width="100%"/>
 
-### **Software Engineer & Full Stack Developer**
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=17&duration=1&pause=99999&color=8B98A5&center=true&vCenter=true&width=650&height=30&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Subtítulo" />
 
-`Java` • `PHP / Laravel` • `React` • `TypeScript` • `SQL`
-
----
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=0066FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+PHP+%7C+Laravel+%7C+React;Sempre+aprendendo+algo+novo;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 
 </div>
 
-## 📌 Sobre Mim
+<br>
 
-> *"Buscando entender o porquê por trás de cada decisão técnica, não só o como fazer funcionar."*
+##  Sobre mim
 
-Sou estudante de **Ciência da Computação** com formação técnica em Desenvolvimento de Sistemas. Minha atuação foca na construção de aplicações end-to-end escaláveis e bem estruturadas, transitando entre arquitetura backend e interfaces funcionais no frontend.
+Sou estudante de Ciência da Computação e venho construindo minha base como desenvolvedor Full Stack, trabalhando desde o backend até a interface final que o usuário vê. No dia a dia, transito entre **Java**, **PHP com Laravel** e **React**, sempre buscando entender o porquê por trás de cada decisão técnica, não só o "como fazer funcionar".
 
-* 🎓 **Educação:** Bacharelado em Ciência da Computação | Técnico em Dev. de Sistemas (ETEC)
-* 💡 **Foco Atual:** Arquitetura de Software, Clean Code e Performance no Ecossistema Web
-* 🎯 **Interesses:** Projetos de impacto, otimização de rotas e sistemas acessíveis
+Gosto de projetos que me tirem da zona de conforto e de resolver problemas reais com código — é isso que me mantém estudando e evoluindo constantemente.
 
----
+<br>
 
-## 🛠️ Tech Stack & Ferramentas
+##  Tecnologias
 
-```javascript
-const dev = {
-  core: ["Java", "PHP", "JavaScript", "TypeScript"],
-  frameworks: ["Laravel", "React", "Spring Boot"],
-  database: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "Docker", "Linux", "VS Code"],
-};
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,react&theme=dark" />
+
+</div>
+
+<br>
+
+##  Projetos em destaque
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Alencar-arrow/Landing-page-Food">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Landing-page-Food&theme=dark&title_color=00A6FB&icon_color=0066FF&border_color=0066FF&bg_color=0D1117" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Alencar-arrow/Brutofit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alencar-arrow&repo=Brutofit&theme=dark&title_color=00A6FB&icon_color=0066FF&border_color=0066FF&bg_color=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+##  GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alencar-arrow&show_icons=true&theme=dark&title_color=00A6FB&icon_color=0066FF&text_color=c9d1d9&border_color=0066FF&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alencar-arrow&layout=compact&theme=dark&title_color=00A6FB&text_color=c9d1d9&border_color=0066FF&bg_color=0D1117" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=Alencar-arrow&theme=dark&hide_border=true&background=0D1117&ring=0066FF&fire=00A6FB&currStreakLabel=00A6FB" width="100%" />
+
+</div>
+
+<br>
+
+##  Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alencar-arrow&theme=react-dark&bg_color=0D1117&color=00A6FB&line=0066FF&point=ffffff&hide_border=true" width="100%" />
+
+</div>
+
+<br>
+
+##  Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alencar-arrow&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" />
+
+</div>
+
+<br>
+
+##  Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Alencar-arrow/Alencar-arrow/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<br>
+
+##  Vamos nos conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gilberto-batista-273162272/">
+  <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/gil_alencar05/">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00A6FB" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:000000&height=100&section=footer"/>
+
+<sub>Feito por Gilberto Alencar © 2026</sub>
+
+</div>
+
+Pode criar um novo? 
+Diferente e mais limpo 
